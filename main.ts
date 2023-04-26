@@ -17,6 +17,3 @@ let action = 0
 basic.showIcon(IconNames.Skull)
 joystickbit.initJoystickBit()
 radio.setGroup(21)
-basic.forever(function () {
-	
-})
